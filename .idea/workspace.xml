@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="abeaf693-310a-4c97-8e0f-b68a8dc5eb36" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/HackerRankString.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/FunnyString.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -75,11 +75,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HackerRankString.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="HackerRankString.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/HackerRankString.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="9" column="26" lean-forward="false" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+            <state relative-caret-position="357">
+              <caret line="17" column="20" lean-forward="true" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PalindromeIndex.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/PalindromeIndex.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-570">
+              <caret line="17" column="27" lean-forward="false" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FunnyString.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/FunnyString.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="231">
+              <caret line="12" column="23" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="12" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -135,6 +155,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/Puzzle.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/PuzzleMap.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/HackerRankString.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/FunnyString.java" />
       </list>
     </option>
   </component>
@@ -230,7 +251,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.HackerRankString">
+  <component name="RunManager" selected="Application.FunnyString">
     <configuration name="FibonacciModified" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -250,14 +271,14 @@
       <module name="exercises" />
       <envs />
     </configuration>
-    <configuration name="FindTheMedian" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="FunnyString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="com.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.FindTheMedian" />
+      <option name="MAIN_CLASS_NAME" value="com.FunnyString" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -407,19 +428,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.FindTheMedian" />
-      <item index="1" class="java.lang.String" itemvalue="Application.FibonacciModified" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Puzzle" />
-      <item index="3" class="java.lang.String" itemvalue="Application.PuzzleMap" />
-      <item index="4" class="java.lang.String" itemvalue="Application.HackerRankString" />
+      <item index="0" class="java.lang.String" itemvalue="Application.FibonacciModified" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Puzzle" />
+      <item index="2" class="java.lang.String" itemvalue="Application.PuzzleMap" />
+      <item index="3" class="java.lang.String" itemvalue="Application.HackerRankString" />
+      <item index="4" class="java.lang.String" itemvalue="Application.FunnyString" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.HackerRankString" />
-        <item index="1" class="java.lang.String" itemvalue="Application.PuzzleMap" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Puzzle" />
-        <item index="3" class="java.lang.String" itemvalue="Application.FibonacciModified" />
-        <item index="4" class="java.lang.String" itemvalue="Application.FindTheMedian" />
+        <item index="0" class="java.lang.String" itemvalue="Application.FunnyString" />
+        <item index="1" class="java.lang.String" itemvalue="Application.HackerRankString" />
+        <item index="2" class="java.lang.String" itemvalue="Application.PuzzleMap" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Puzzle" />
+        <item index="4" class="java.lang.String" itemvalue="Application.FibonacciModified" />
       </list>
     </recent_temporary>
   </component>
@@ -552,18 +573,6 @@
           <properties />
           <option name="timeStamp" value="82" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/HackerRankString.java</url>
-          <line>12</line>
-          <properties />
-          <option name="timeStamp" value="107" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/HackerRankString.java</url>
-          <line>10</line>
-          <properties />
-          <option name="timeStamp" value="109" />
-        </line-breakpoint>
       </breakpoints>
       <option name="time" value="110" />
     </breakpoint-manager>
@@ -574,16 +583,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/Puzzle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/MarsExploration.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="42">
@@ -931,16 +930,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/PalindromeIndex.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-9">
-          <caret line="17" column="27" lean-forward="false" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/MarkAndToys.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
@@ -1005,8 +994,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/HackerRankString.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" column="26" lean-forward="false" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+        <state relative-caret-position="357">
+          <caret line="17" column="20" lean-forward="true" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/PalindromeIndex.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-570">
+          <caret line="17" column="27" lean-forward="false" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/FunnyString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="12" column="23" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="12" selection-end-column="23" />
           <folding />
         </state>
       </provider>
