@@ -13,7 +13,7 @@ public class BirthdayCakeCandles {
     // Complete the birthdayCakeCandles function below.
     static int birthdayCakeCandles(int[] ar) {
         Arrays.sort(ar);
-        int temp = ar[ar.length - 1];
+        int temp;
         int a = ar.length - 1;
         int count = 0;
         while (a>=0){
