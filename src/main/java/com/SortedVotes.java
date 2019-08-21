@@ -1,11 +1,7 @@
 package com;
 
-import javafx.collections.transformation.SortedList;
-
 import java.util.Arrays;
-import java.util.Collection;
 import java.util.List;
-import java.util.stream.Collectors;
 
 public class SortedVotes {
 
